@@ -1,0 +1,79 @@
+[
+  {
+    "id": "64da296ad3fa192603728b55",
+    "uuid": "b559211c-dee6-4838-a572-b4dbf10a92c4",
+    "name": "Hähnchengeschnetzeltes",
+    "amount": 250,
+    "unit": "g"
+  },
+  {
+    "id": "64df2a02614f75555c20eac0",
+    "uuid": "ff045bdb-fe2c-58b4-bd0c-c0ccbddd8a2d",
+    "name": "Jasminreis",
+    "amount": 150,
+    "unit": "g"
+  },
+  {
+    "id": "64da29b4796d73553a896623",
+    "uuid": "74465e54-fa3b-5202-b7f2-b465297bb828",
+    "name": "Karotte",
+    "amount": 2,
+    "unit": "Stück"
+  },
+  {
+    "id": "64da2958b886d9ac2889d691",
+    "uuid": "0669dd0d-49ca-4e6d-a144-75632b22b136",
+    "name": "Frühlingszwiebel",
+    "amount": 1,
+    "unit": "Stück"
+  },
+  {
+    "id": "64da29e1b886d9ac2889decd",
+    "uuid": "8b6497d0-fd64-4873-98ae-bbdedef0635c",
+    "name": "Knoblauchzehe",
+    "amount": 2,
+    "unit": "Stück"
+  },
+  {
+    "id": "64f8848e71b62ce12833cfec",
+    "uuid": "02d99172-af65-4682-973a-6aa6eb46eeca",
+    "name": "Ingwerpaste",
+    "amount": 5,
+    "unit": "g"
+  },
+  {
+    "id": "64da29eab886d9ac2889df59",
+    "uuid": "356fb27d-2834-5192-93db-e5eea4bda051",
+    "name": "Maisstärke",
+    "amount": 8,
+    "unit": "g"
+  },
+  {
+    "id": "64df2a02614f75555c20eac9",
+    "uuid": "0eae0198-9f27-5e24-97d4-45b44e38d5dd",
+    "name": "Sojasoße",
+    "amount": 50,
+    "unit": "ml"
+  },
+  {
+    "id": "65b447ef3ebf28940b30335a",
+    "uuid": "01bd1378-33c6-5b00-81e1-f5e78386db30",
+    "name": "Sesamsamen",
+    "amount": 10,
+    "unit": "g"
+  },
+  {
+    "id": "64df2a45552e10127649f0d1",
+    "uuid": "ebd2f698-4242-5deb-b767-d529fb84b42f",
+    "name": "Sesamöl",
+    "amount": 10,
+    "unit": "ml"
+  },
+  {
+    "id": "64da2941b886d9ac2889d536",
+    "uuid": "b35cf6b2-6b70-5833-9c45-ff52cb75c44a",
+    "name": "Hühnerbrühe",
+    "amount": 4,
+    "unit": "g"
+  }
+]

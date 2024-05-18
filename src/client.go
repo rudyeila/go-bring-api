@@ -140,13 +140,13 @@ func (b *Bring) GetList(listID string) (*model.ListDetailResponse, error) {
 	return listRes, nil
 }
 
-func (b *Bring) AddItem(listID string, item model.ListItem) error {
+func (b *Bring) AddItem(listID string, name, sub string) error {
 	listURL := fmt.Sprintf("%s/bringlists/%s", b.baseURL, listID)
 
 	form := url.Values{}
 	form.Add("uuid", listID)
-	form.Add("purchase", item.Name)
-	form.Add("specification", item.Specification)
+	form.Add("purchase", name)
+	form.Add("specification", sub)
 
 	req, err := b.authenticatedRequest(http.MethodPut, listURL, strings.NewReader(form.Encode()))
 	if err != nil {
