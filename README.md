@@ -1,4 +1,4 @@
-# go-bring-api
+# go-bring-client
 An unofficial API Client written in Go for Bring! Shopping List App
 
 # usage 
