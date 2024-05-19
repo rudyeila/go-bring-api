@@ -1,4 +1,4 @@
-package src
+package bring
 
 import (
 	"encoding/json"
@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/rudyeila/go-bring-api/src/model"
+	"github.com/rudyeila/go-bring-api/bring/model"
 )
 
 const (

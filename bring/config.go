@@ -1,4 +1,4 @@
-package src
+package bring
 
 import (
 	"fmt"
@@ -20,7 +20,7 @@ type Config struct {
 
 func NewConfig(filenames ...string) (Config, error) {
 	conf := Config{}
-	_ = godotenv.Load(filenames...) //nolint:errcheck // ignore error
+	_ = godotenv.Load(filenames...)
 
 	err := envconfig.Process("", &conf)
 	if err != nil {
