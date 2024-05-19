@@ -7,8 +7,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/rudyeila/go-bring-api/bring"
-	"github.com/rudyeila/go-bring-api/bring/model"
+	"github.com/rudyeila/go-bring-client/bring"
+	"github.com/rudyeila/go-bring-client/bring/model"
 )
 
 type IngredientWithAmount struct {

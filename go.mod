@@ -1,4 +1,4 @@
-module github.com/rudyeila/go-bring-api
+module github.com/rudyeila/go-bring-client
 
 go 1.22rc2
 

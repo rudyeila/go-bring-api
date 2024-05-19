@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/rudyeila/go-bring-api/bring/model"
+	"github.com/rudyeila/go-bring-client/bring/model"
 )
 
 const (
